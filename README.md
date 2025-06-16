@@ -30,28 +30,6 @@ This is a simple yet powerful **auto-captioning tool** built using OpenAI's Whis
 
 ---
 
-## 📁 Folder Structure
-auto_caption_generator/
-│
-├── app.py # Streamlit app
-├── requirements.txt # Python dependencies
-├── README.md # This file
-│
-├── utils/
-│ ├── audio_utils.py # Audio extraction
-│ ├── whisper_utils.py # Whisper transcription
-│ ├── subtitle_utils.py # SRT generation
-│ └── video_utils.py # Burn subtitles
-│
-├── uploads/ # Uploaded input videos/audio
-└── output/ # Generated .srt and output video
-
-yaml
-Copy
-Edit
-
----
-
 ## 💻 Installation
 
 1. **Clone this repository:**
